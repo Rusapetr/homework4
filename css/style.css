@@ -1,0 +1,239 @@
+.list {
+    list-style: none;
+}
+
+
+
+a {
+
+    text-decoration: none;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.home,
+.about,
+.contact {
+
+    display: inline;
+
+}
+
+
+
+.home {
+    margin-left: 450px;
+
+}
+
+.contact,
+.about {
+    margin-left: 66px;
+}
+
+header {
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #000;
+}
+
+
+
+
+.card {
+    width: 333px;
+    height: 487px;
+    border: 1px solid black;
+    padding: 11px;
+    display: inline-block;
+}
+
+.title {
+    margin-top: 5px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.description {
+
+    margin-top: 13px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.button {
+
+    margin-top: 35px;
+    margin-left: 224px;
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+
+    margin-top: 160px;
+    margin-bottom: 0px;
+}
+
+.one {
+
+    margin-left: 50px;
+}
+
+.two {
+
+    margin-left: 50px;
+}
+
+.three {
+
+    margin-left: 50px;
+}
+
+img {
+
+    width: 100%;
+}
+
+
+
+
+
+.sectionTwo {
+    margin-top: 112px;
+    margin-bottom: 771px;
+}
+
+.aboutTitle {
+    display: inline;
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    color: #7D0000;
+    margin-left: 480px;
+
+}
+
+
+.aboutText {
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    color: black;
+    text-transform: capitalize;
+    margin-top: 118px;
+    margin-left: 300px;
+    margin-right: 300px;
+    line-height: 41.25px;
+
+}
+
+.adress {
+    margin-top: 59px;
+    margin-left: 300px;
+    font-style: italic;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    margin-bottom: 355px;
+
+}
+
+
+
+.contactTitle {
+    display: inline;
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    color: #7D0000;
+    margin-left: 535px;
+    margin-bottom: 771px;
+
+}
+
+
+.contactText1 {
+    margin-top: 118px;
+    margin-left: 300px;
+    font-style: italic;
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.contactText2 {
+
+    margin-top: 32px;
+    margin-left: 300px;
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+}
+
+.contactText3 {
+    margin-top: 32px;
+    margin-left: 300px;
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+
+}
+
+
+
+
+
+@font-face {
+    font-family: "firaGo";
+    src: url(../fonts/FiraGO-Regular.ttf);
+}
+
+.homeTitle {
+    margin-top: 72px;
+    margin-left: 465px;
+    font-size: 24px;
+    font-family: "firaGo";
+
+}
+
+.info1,
+.info2,
+.info3 {
+
+    list-style: circle;
+    display: inline-block;
+}
+
+.sectionThree {
+
+    margin-top: 0;
+    margin-bottom: 118px;
+}
+
+.info1 {
+    margin-top: 115px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 130px;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+.info2 {
+    margin-top: 115px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 130px;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+
+.info3 {
+    margin-top: 115px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 130px;
+    font-size: 14px;
+    line-height: 19px;
+}
